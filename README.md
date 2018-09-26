@@ -8,9 +8,9 @@
 
 *running the test(Win)*
 
--open CMD
--go to test folder 
--run test with command : protractor conf.js
+- open CMD
+- go to test folder 
+- run test with command : protractor conf.js
 
 
 ***Explanation***
